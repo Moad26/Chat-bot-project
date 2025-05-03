@@ -1,0 +1,74 @@
+version: "3.1"
+
+nlu:
+  - intent: introduction_theorie_information
+    examples: |
+      - Tell me about "Introduction à la Théorie de l’information"
+      - What topics are covered in "Introduction à la Théorie de l’information"?
+      - Can you describe the course "Introduction à la Théorie de l’information"?
+      - I want details about "Introduction à la Théorie de l’information"
+      - What is "Introduction à la Théorie de l’information" about?
+
+  - intent: communication_interpersonnelle
+    examples: |
+      - What is taught in "Communication Interpersonnelle"?
+      - Can you provide information about "Communication Interpersonnelle"?
+      - Tell me about the course "Communication Interpersonnelle"
+      - What skills are covered in "Communication Interpersonnelle"?
+      - Describe the "Communication Interpersonnelle" subject.
+
+  - intent: english_studies
+    examples: |
+      - What is included in "English Studies"?
+      - Can you describe the "English Studies" module?
+      - I want to know about "English Studies"
+      - Tell me what "English Studies" covers.
+      - What topics are part of "English Studies"?
+
+  - intent: analyse_conception_algorithmes
+    examples: |
+      - What is taught in "Analyse et conception des algorithmes"?
+      - Tell me about "Analyse et conception des algorithmes".
+      - Can you provide details on "Analyse et conception des algorithmes"?
+      - Describe the course "Analyse et conception des algorithmes".
+      - What topics are included in "Analyse et conception des algorithmes"?
+
+  - intent: it_management_project
+    examples: |
+      - What is the "IT Management Project"?
+      - Can you explain "IT Management Project"?
+      - Tell me about "IT Management Project".
+      - What does the "IT Management Project" course cover?
+      - I want details about "IT Management Project".
+
+  - intent: bases_donnees_semi_structurees
+    examples: |
+      - Tell me about "Bases de Données Semi Structurées".
+      - What is taught in "Bases de Données Semi Structurées"?
+      - Can you describe the "Bases de Données Semi Structurées" course?
+      - What does "Bases de Données Semi Structurées" cover?
+      - I want to learn about "Bases de Données Semi Structurées".
+
+  - intent: theorie_probabilites_applications
+    examples: |
+      - What is the "Théorie des Probabilités et Applications" course?
+      - Can you explain "Théorie des Probabilités et Applications"?
+      - Tell me about "Théorie des Probabilités et Applications".
+      - What does "Théorie des Probabilités et Applications" cover?
+      - I want details about "Théorie des Probabilités et Applications".
+
+  - intent: analyse_numerique_optimisation
+    examples: |
+      - Tell me about "Analyse Numérique et Optimisation".
+      - What is covered in "Analyse Numérique et Optimisation"?
+      - Can you describe "Analyse Numérique et Optimisation"?
+      - I want details on "Analyse Numérique et Optimisation".
+      - What is "Analyse Numérique et Optimisation" about?
+
+  - intent: langage_python
+    examples: |
+      - What is taught in the "Langage Python" course?
+      - Can you describe "Langage Python"?
+      - What does "Langage Python" cover?
+      - I want details about "Langage Python".
+      - Tell me about "Langage Python".

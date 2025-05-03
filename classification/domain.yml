@@ -1,0 +1,12 @@
+version: "3.1"
+
+intents:
+  - introduction_theorie_information
+  - communication_interpersonnelle
+  - english_studies
+  - analyse_conception_algorithmes
+  - it_management_project
+  - bases_donnees_semi_structurees
+  - theorie_probabilites_applications
+  - analyse_numerique_optimisation
+  - langage_python

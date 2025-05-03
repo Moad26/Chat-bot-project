@@ -1,0 +1,21 @@
+{
+    "introduction_theorie_information": [],
+    "communication_interpersonnelle": [],
+    "english_studies": [],
+    "analyse_conception_algorithmes": [],
+    "it_management_project": [],
+    "bases_donnees_semi_structurees": [],
+    "theorie_probabilites_applications": [
+        {
+            "message": "probabilit\u00e9",
+            "id": "Mr M"
+        },
+        {
+            "message": "does someone have the course of probability?",
+            "id": "Mr M"
+        }
+    ],
+    "analyse_numerique_optimisation": [],
+    "langage_python": [],
+    "nlu_fallback": []
+}
